@@ -5,7 +5,7 @@
 https://steamcommunity.com/id/span4ev/
 
 ### УСТАНОВКА
-Заменить файл из архива `resources.assets` в папке `\TheFarmerWasReplaced_Data`
-На всякий случай сохраните копию оригинального файла `resources.assets` для возможности восстановления в случае необходимости
+Заменить файл из архива `resources.assets` в папке `\TheFarmerWasReplaced_Data`.
+На всякий случай сохраните копию оригинального файла `resources.assets` для возможности восстановления в случае необходимости.
 Игра переведена путём замены текста в файле `resources.assets`.
 Обо всех ошибках перевода пишите в Telegram канал https://t.me/span4ev
